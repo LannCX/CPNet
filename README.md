@@ -28,4 +28,4 @@ See [cpnet_100.sh](cpnet_100.sh) and [cpnet_300.sh](cpnet_300.sh) for commands t
 
 ### Acknowledgement
 
-Ours code is based on [NAYER](!https://github.com/tmtuan1307/NAYER) and [Fast](https://github.com/zju-vipa/Fast-Datafree), thanks for their nice work!
+Ours code is based on [NAYER](https://github.com/tmtuan1307/NAYER) and [Fast](https://github.com/zju-vipa/Fast-Datafree), thanks for their nice work!
